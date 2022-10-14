@@ -1,4 +1,4 @@
-FROM node:18.10-bullseye-slim
+FROM node:18.11-bullseye-slim
 
 RUN npm i -g markserv
 
