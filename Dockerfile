@@ -1,4 +1,4 @@
-FROM node:22.11-bullseye-slim@sha256:dc4a9f3fcc974b388ddd3d1801890782bd12e8b0a476d37e4dd1c7b5d66c459d
+FROM node:22.11-bullseye-slim@sha256:0623e75a4d1e0102343572b85bd3a00bed1f0d297c4f36daeb491d2b45dc62f7
 
 RUN npm i -g markserv
 
